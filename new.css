@@ -1,0 +1,31 @@
+.navbar
+{
+    background-color: rgba(44, 39, 29, 0.692);
+}
+.row
+{
+    color: rgb(15, 15, 15);
+    text-align: center;
+}
+.container
+{
+align-items: center;
+}
+.w3-container-1
+{
+    background-color: dimgray;
+    text-align: center;
+    color: rgb(18, 21, 221);
+}
+.btn
+{
+    align-self: flex-end;
+}
+.d-block
+{
+    height: 450px;
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
